@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { LoginForm } from "@/components/LoginForm";
+import LoginForm from "@/components/LoginForm";
 import { AdminDashboard } from "@/components/AdminDashboard";
 import { UserDashboard } from "@/components/UserDashboard";
 import { Button } from "@/components/ui/button";
